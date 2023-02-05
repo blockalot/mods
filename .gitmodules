@@ -1,0 +1,3 @@
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons

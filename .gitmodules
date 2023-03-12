@@ -1,3 +1,81 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "basic_trains"]
+	path = basic_trains
+	url = http://git.bananach.space/basic_trains.git/
+[submodule "anvil"]
+	path = anvil
+	url = https://github.com/minetest-mods/anvil
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas/
+[submodule "markers"]
+	path = markers
+	url = https://github.com/Sokomine/markers
+[submodule "protector"]
+	path = protector
+	url = https://notabug.org/tenplus1/protector
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://github.com/mt-mods/basic_signs
+[submodule "minetest-better_nametags"]
+	path = minetest-better_nametags
+	url = https://notabug.org/Piezo_/minetest-better_nametags
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike/
+[submodule "master"]
+	path = master
+	url = https://bitbucket.org/minetest_gamers/x_farming/src/master/
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/tenplus1/bonemeal
+[submodule "boost_cart"]
+	path = boost_cart
+	url = https://github.com/SmallJoker/boost_cart
+[submodule "bridger"]
+	path = bridger
+	url = https://github.com/v-rob/bridger
+[submodule "new_campfire"]
+	path = new_campfire
+	url = https://github.com/mt-mods/new_campfire
+[submodule "abriglass"]
+	path = abriglass
+	url = https://github.com/mt-mods/abriglass
+[submodule "cblocks"]
+	path = cblocks
+	url = https://notabug.org/tenplus1/cblocks
+[submodule "christmas"]
+	path = christmas
+	url = https://github.com/Extex101/christmas
+[submodule "christmas_decor"]
+	path = christmas_decor
+	url = https://github.com/GreenXenith/christmas_decor
+[submodule "climate_api"]
+	path = climate_api
+	url = https://github.com/t-affeldt/climate_api
+[submodule "regional_weather"]
+	path = regional_weather
+	url = https://github.com/t-affeldt/regional_weather
+[submodule "cucina_vegana"]
+	path = cucina_vegana
+	url = https://github.com/acmgit/cucina_vegana
+[submodule "potted_farming"]
+	path = potted_farming
+	url = https://github.com/AnnalysaTheMinetester/potted_farming
+[submodule "digiterms"]
+	path = digiterms
+	url = https://github.com/pyrollo/digiterms

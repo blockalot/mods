@@ -32,14 +32,11 @@
 	path = basic_signs
 	url = https://github.com/mt-mods/basic_signs
 [submodule "minetest-better_nametags"]
-	path = minetest-better_nametags
+	path = better-nametags
 	url = https://notabug.org/Piezo_/minetest-better_nametags
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/
-[submodule "master"]
-	path = master
-	url = https://bitbucket.org/minetest_gamers/x_farming/src/master/
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://notabug.org/tenplus1/bonemeal
@@ -79,3 +76,6 @@
 [submodule "digiterms"]
 	path = digiterms
 	url = https://github.com/pyrollo/digiterms
+[submodule "x_farming"]
+	path = x_farming
+	url = https://bitbucket.org/minetest_gamers/x_farming

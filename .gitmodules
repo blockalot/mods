@@ -79,3 +79,66 @@
 [submodule "x_farming"]
 	path = x_farming
 	url = https://bitbucket.org/minetest_gamers/x_farming
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "we_undo"]
+	path = we_undo
+	url = https://github.com/HybridDog/we_undo
+[submodule "pvpplus"]
+	path = pvpplus
+	url = https://github.com/MT-Eurythmia/pvpplus
+[submodule "intllib"]
+	path = intllib
+	url = https://github.com/minetest-mods/intllib
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/tenplus1/mobs_redo
+[submodule "simple_dialogs"]
+	path = simple_dialogs
+	url = https://github.com/Kilarin/simple_dialogs
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://notabug.org/TenPlus1/mobs_npc
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor
+[submodule "minetest_mails"]
+	path = minetest_mails
+	url = https://gitlab.com/zughy-friends-minetest/minetest_mails
+[submodule "display_modpack"]
+	path = display_modpack
+	url = https://github.com/pyrollo/display_modpack
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "ts_paper"]
+	path = ts_paper
+	url = https://github.com/minetest-mods/ts_paper
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/stujones11/wield3d
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor
+[submodule "hopper"]
+	path = hopper
+	url = https://github.com/minetest-mods/hopper
+[submodule "spawnpoint"]
+	path = spawnpoint
+	url = https://github.com/octacian/spawnpoint
+[submodule "minetest_poi"]
+	path = minetest_poi
+	url = https://github.com/acmgit/minetest_poi
+[submodule "visual-bots"]
+	path = visual-bots
+	url = https://github.com/nyje/visual-bots

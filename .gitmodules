@@ -142,3 +142,24 @@
 [submodule "visual-bots"]
 	path = visual-bots
 	url = https://github.com/nyje/visual-bots
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "unified_inventory_plus"]
+	path = unified_inventory_plus
+	url = https://github.com/bousket/unified_inventory_plus
+[submodule "edutest"]
+	path = edutest
+	url = https://github.com/zeuner/edutest
+[submodule "edutest-chatcommands"]
+	path = edutest-chatcommands
+	url = https://github.com/zeuner/edutest-chatcommands
+[submodule "freeze"]
+	path = freeze
+	url = https://github.com/IhrFussel/freeze
+[submodule "minetest-mod-invis"]
+	path = minetest-mod-invis
+	url = https://github.com/octacian/minetest-mod-invis
+[submodule "invincibility"]
+	path = invincibility
+	url = https://github.com/zeuner/invincibility

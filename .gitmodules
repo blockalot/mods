@@ -205,3 +205,12 @@
 [submodule "digistuff"]
 	path = digistuff
 	url = https://cheapiesystems.com/git/digistuff
+[submodule "swaz"]
+	path = swaz
+	url = https://github.com/runsy/swaz
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/ChimneySwift/multitools

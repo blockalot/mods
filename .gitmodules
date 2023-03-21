@@ -47,7 +47,7 @@
 	path = bridger
 	url = https://github.com/v-rob/bridger
 [submodule "new_campfire"]
-	path = new_campfire
+	path = campfire
 	url = https://github.com/mt-mods/new_campfire
 [submodule "abriglass"]
 	path = abriglass
@@ -178,3 +178,30 @@
 [submodule "lmz_opening_hours"]
 	path = lmz_opening_hours
 	url = https://github.com/LizzyFleckenstein03/lmz_opening_hours
+[submodule "minetest_playereffects"]
+	path = minetest_playereffects
+	url = https://repo.or.cz/minetest_playereffects.git
+[submodule "playeranim"]
+	path = playeranim
+	url = https://github.com/minetest-mods/playeranim
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "xocean"]
+	path = xocean
+	url = https://github.com/starninjas/xocean
+[submodule "warps"]
+	path = warps
+	url = https://github.com/minetest-mods/warps
+[submodule "greenscreen"]
+	path = greenscreen
+	url = https://github.com/rollerozxa/greenscreen
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/mt-mods/pipeworks
+[submodule "facade"]
+	path = facade
+	url = https://github.com/TumeniNodes/facade
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff

@@ -214,3 +214,12 @@
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/ChimneySwift/multitools
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/runsy/cool_trees/
+[submodule "farming"]
+	path = farming
+	url = https://notabug.org/tenplus1/farming
+[submodule "lua-matrix"]
+	path = lua-matrix
+	url = https://github.com/entuland/lua-matrix

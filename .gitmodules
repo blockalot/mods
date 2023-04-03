@@ -226,3 +226,18 @@
 [submodule "minetestnutzungsbedingungen"]
 	path = minetestnutzungsbedingungen
 	url = https://github.com/chrbinder/minetestnutzungsbedingungen
+[submodule "islands"]
+	path = islands
+	url = https://github.com/TheTermos/islands
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/tenplus1/mobs_animal
+[submodule "illumination"]
+	path = illumination
+	url = https://github.com/mt-mods/illumination
+[submodule "minetest-hangglider"]
+	path = minetest-hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider

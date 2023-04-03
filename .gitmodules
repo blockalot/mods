@@ -223,3 +223,6 @@
 [submodule "lua-matrix"]
 	path = lua-matrix
 	url = https://github.com/entuland/lua-matrix
+[submodule "minetestnutzungsbedingungen"]
+	path = minetestnutzungsbedingungen
+	url = https://github.com/chrbinder/minetestnutzungsbedingungen

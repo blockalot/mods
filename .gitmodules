@@ -106,9 +106,6 @@
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://notabug.org/TenPlus1/mobs_npc
-[submodule "skinsdb"]
-	path = skinsdb
-	url = https://github.com/minetest-mods/skinsdb
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor
@@ -163,9 +160,6 @@
 [submodule "invincibility"]
 	path = invincibility
 	url = https://github.com/zeuner/invincibility
-[submodule "petz"]
-	path = petz
-	url = https://github.com/runsy/petz
 [submodule "itemshelf"]
 	path = itemshelf
 	url = https://github.com/hkzorman/itemshelf

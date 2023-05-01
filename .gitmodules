@@ -46,9 +46,6 @@
 [submodule "bridger"]
 	path = bridger
 	url = https://github.com/v-rob/bridger
-[submodule "new_campfire"]
-	path = campfire
-	url = https://github.com/mt-mods/new_campfire
 [submodule "abriglass"]
 	path = abriglass
 	url = https://github.com/mt-mods/abriglass
@@ -124,9 +121,6 @@
 [submodule "wield3d"]
 	path = wield3d
 	url = https://github.com/stujones11/wield3d
-[submodule "xdecor"]
-	path = xdecor
-	url = https://github.com/minetest-mods/xdecor
 [submodule "hopper"]
 	path = hopper
 	url = https://github.com/minetest-mods/hopper
@@ -136,9 +130,6 @@
 [submodule "minetest_poi"]
 	path = minetest_poi
 	url = https://github.com/acmgit/minetest_poi
-[submodule "visual-bots"]
-	path = visual-bots
-	url = https://github.com/nyje/visual-bots
 [submodule "unified_inventory"]
 	path = unified_inventory
 	url = https://github.com/minetest-mods/unified_inventory
@@ -247,3 +238,48 @@
 [submodule "church"]
 	path = church
 	url = https://github.com/sfence/church
+[submodule "sailing_kit"]
+	path = sailing_kit
+	url = https://github.com/TheTermos/sailing_kit
+[submodule "mobkit"]
+	path = mobkit
+	url = https://github.com/TheTermos/mobkit
+[submodule "mapserver_mod"]
+	path = mapserver_mod
+	url = https://github.com/minetest-mapserver/mapserver_mod
+[submodule "bulletin_boards"]
+	path = bulletin_boards
+	url = https://github.com/minetest-mods/bulletin_boards
+[submodule "minetest_playerphysics"]
+	path = minetest_playerphysics
+	url = https://codeberg.org/Wuzzy/minetest_playerphysics
+[submodule "xdecor-libre"]
+	path = xdecor-libre
+	url = https://codeberg.org/Wuzzy/xdecor-libre
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request
+[submodule "minetest-invhack"]
+	path = minetest-invhack
+	url = https://github.com/oversword/minetest-invhack
+[submodule "bible"]
+	path = bible
+	url = https://github.com/TEbinger/bible
+[submodule "mail"]
+	path = mail
+	url = https://github.com/mt-mods/mail
+[submodule "minetest-toolranks"]
+	path = minetest-toolranks
+	url = https://github.com/lisacvuk/minetest-toolranks
+[submodule "serversay"]
+	path = serversay
+	url = https://github.com/Truemmerer/serversay
+[submodule "campfire"]
+	path = campfire
+	url = https://github.com/Napiophelios/campfire
+[submodule "tps_spill"]
+	path = tps_spill
+	url = https://github.com/Cat5TV/tps_spill
+[submodule "petz"]
+	path = petz
+	url = git@github.com:blockalot/petz.git

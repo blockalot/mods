@@ -172,9 +172,6 @@
 [submodule "lmz_opening_hours"]
 	path = lmz_opening_hours
 	url = https://github.com/LizzyFleckenstein03/lmz_opening_hours
-[submodule "minetest_playereffects"]
-	path = minetest_playereffects
-	url = https://repo.or.cz/minetest_playereffects.git
 [submodule "playeranim"]
 	path = playeranim
 	url = https://github.com/minetest-mods/playeranim
@@ -235,3 +232,18 @@
 [submodule "minetest-hangglider"]
 	path = minetest-hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider
+[submodule "wine"]
+	path = wine
+	url = https://notabug.org/TenPlus1/wine
+[submodule "currency"]
+	path = currency
+	url = https://github.com/mt-mods/currency
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://notabug.org/TenPlus1/mob_horse
+[submodule "mesecons_audio"]
+	path = mesecons_audio
+	url = https://github.com/mmmsued/mesecons_audio
+[submodule "church"]
+	path = church
+	url = https://github.com/sfence/church

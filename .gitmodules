@@ -274,12 +274,12 @@
 [submodule "serversay"]
 	path = serversay
 	url = https://github.com/Truemmerer/serversay
-[submodule "campfire"]
-	path = campfire
-	url = https://github.com/Napiophelios/campfire
 [submodule "tps_spill"]
 	path = tps_spill
 	url = https://github.com/Cat5TV/tps_spill
 [submodule "petz"]
 	path = petz
 	url = git@github.com:blockalot/petz.git
+[submodule "campfire"]
+	path = campfire
+	url = https://github.com/Napiophelios/campfire

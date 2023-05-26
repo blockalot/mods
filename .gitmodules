@@ -283,3 +283,9 @@
 [submodule "skinsdb"]
 	path = skinsdb
 	url = git@github.com:blockalot/skinsdb.git
+[submodule "petz"]
+	path = petz
+	url = git@github.com:blockalot/petz.git
+[submodule "meshport"]
+	path = meshport
+	url = git@github.com:random-geek/meshport.git

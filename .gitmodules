@@ -289,3 +289,12 @@
 [submodule "meshport"]
 	path = meshport
 	url = git@github.com:random-geek/meshport.git
+[submodule "digicontrol"]
+	path = digicontrol
+	url = git@github.com:OgelGames/digicontrol.git
+[submodule "led_marquee"]
+	path = led_marquee
+	url = git@github.com:mt-mods/led_marquee.git
+[submodule "basic_machines"]
+	path = basic_machines
+	url = git@github.com:ac-minetest/basic_machines.git

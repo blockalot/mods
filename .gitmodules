@@ -298,3 +298,9 @@
 [submodule "petz"]
 	path = petz
 	url = git@github.com:blockalot/petz.git
+[submodule "mtobjid"]
+	path = mtobjid
+	url = https://codeberg.org/zeuner/mtobjid.git
+[submodule "mobconf"]
+	path = mobconf
+	url = https://codeberg.org/zeuner/mobconf

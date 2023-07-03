@@ -160,9 +160,6 @@
 [submodule "ehlphabet"]
 	path = ehlphabet
 	url = https://git.bananach.space/ehlphabet.git
-[submodule "lmz_opening_hours"]
-	path = lmz_opening_hours
-	url = https://github.com/LizzyFleckenstein03/lmz_opening_hours
 [submodule "playeranim"]
 	path = playeranim
 	url = https://github.com/minetest-mods/playeranim
@@ -304,3 +301,6 @@
 [submodule "mobconf"]
 	path = mobconf
 	url = https://codeberg.org/zeuner/mobconf
+[submodule "lmz_opening_hours"]
+	path = lmz_opening_hours
+	url = git@github.com:blockalot/lmz_opening_hours.git

@@ -304,3 +304,6 @@
 [submodule "lmz_opening_hours"]
 	path = lmz_opening_hours
 	url = git@github.com:blockalot/lmz_opening_hours.git
+[submodule "hud_notify"]
+	path = hud_notify
+	url = https://github.com/MT-CTF/hud_notify

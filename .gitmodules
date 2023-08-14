@@ -253,9 +253,6 @@
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
-[submodule "minetest-invhack"]
-	path = minetest-invhack
-	url = https://github.com/oversword/minetest-invhack
 [submodule "bible"]
 	path = bible
 	url = https://github.com/TEbinger/bible
@@ -325,3 +322,18 @@
 [submodule "3d_armor_flyswim"]
 	path = 3d_armor_flyswim
 	url = https://github.com/sirrobzeroone/3d_armor_flyswim
+[submodule "mt_biblebot"]
+	path = mt_biblebot
+	url = https://github.com/maikerumine/mt_biblebot
+[submodule "visual-bots"]
+	path = visual-bots
+	url = https://github.com/blockalot/visual-bots
+[submodule "fmod"]
+	path = fmod
+	url = https://github.com/fluxionary/minetest-fmod
+[submodule "futil"]
+	path = futil
+	url = https://github.com/fluxionary/minetest-futil
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/minetest-mods/wiki

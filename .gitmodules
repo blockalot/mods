@@ -124,9 +124,6 @@
 [submodule "hopper"]
 	path = hopper
 	url = https://github.com/minetest-mods/hopper
-[submodule "spawnpoint"]
-	path = spawnpoint
-	url = https://github.com/octacian/spawnpoint
 [submodule "minetest_poi"]
 	path = minetest_poi
 	url = https://github.com/acmgit/minetest_poi
@@ -307,3 +304,24 @@
 [submodule "hud_notify"]
 	path = hud_notify
 	url = https://github.com/MT-CTF/hud_notify
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
+[submodule "wesh"]
+	path = wesh
+	url = https://github.com/entuland/wesh
+[submodule "spawnpoint"]
+	path = spawnpoint
+	url = https://github.com/blockalot/spawnpoint
+[submodule "Minetest-WorldEditAdditions"]
+	path = Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions
+[submodule "minetest_playertools"]
+	path = minetest_playertools
+	url = https://repo.or.cz/minetest_playertools.git
+[submodule "flyspeed"]
+	path = flyspeed
+	url = https://github.com/rollerozxa/flyspeed
+[submodule "3d_armor_flyswim"]
+	path = 3d_armor_flyswim
+	url = https://github.com/sirrobzeroone/3d_armor_flyswim

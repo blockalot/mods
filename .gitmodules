@@ -136,9 +136,11 @@
 [submodule "edutest"]
 	path = edutest
 	url = https://github.com/zeuner/edutest
+	branch = edutest-2022
 [submodule "edutest-chatcommands"]
 	path = edutest-chatcommands
 	url = https://github.com/zeuner/edutest-chatcommands
+	branch = edutest-2022
 [submodule "freeze"]
 	path = freeze
 	url = https://github.com/IhrFussel/freeze

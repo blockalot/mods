@@ -228,9 +228,6 @@
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse
-[submodule "mesecons_audio"]
-	path = mesecons_audio
-	url = https://github.com/mmmsued/mesecons_audio
 [submodule "church"]
 	path = church
 	url = https://github.com/sfence/church
@@ -339,3 +336,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = https://github.com/minetest-mods/wiki
+[submodule "mesecons_audio"]
+	path = mesecons_audio
+	url = git@github.com:blockalot/mesecons_audio.git

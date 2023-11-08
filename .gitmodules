@@ -124,9 +124,6 @@
 [submodule "hopper"]
 	path = hopper
 	url = https://github.com/minetest-mods/hopper
-[submodule "spawnpoint"]
-	path = spawnpoint
-	url = https://github.com/octacian/spawnpoint
 [submodule "minetest_poi"]
 	path = minetest_poi
 	url = https://github.com/acmgit/minetest_poi
@@ -139,9 +136,11 @@
 [submodule "edutest"]
 	path = edutest
 	url = https://github.com/zeuner/edutest
+	branch = edutest-2022
 [submodule "edutest-chatcommands"]
 	path = edutest-chatcommands
 	url = https://github.com/zeuner/edutest-chatcommands
+	branch = edutest-2022
 [submodule "freeze"]
 	path = freeze
 	url = https://github.com/IhrFussel/freeze
@@ -229,9 +228,6 @@
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://notabug.org/TenPlus1/mob_horse
-[submodule "mesecons_audio"]
-	path = mesecons_audio
-	url = https://github.com/mmmsued/mesecons_audio
 [submodule "church"]
 	path = church
 	url = https://github.com/sfence/church
@@ -256,9 +252,6 @@
 [submodule "teleport-request"]
 	path = teleport-request
 	url = https://github.com/minetest-mods/teleport-request
-[submodule "minetest-invhack"]
-	path = minetest-invhack
-	url = https://github.com/oversword/minetest-invhack
 [submodule "bible"]
 	path = bible
 	url = https://github.com/TEbinger/bible
@@ -307,3 +300,42 @@
 [submodule "hud_notify"]
 	path = hud_notify
 	url = https://github.com/MT-CTF/hud_notify
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
+[submodule "wesh"]
+	path = wesh
+	url = https://github.com/entuland/wesh
+[submodule "spawnpoint"]
+	path = spawnpoint
+	url = https://github.com/blockalot/spawnpoint
+[submodule "Minetest-WorldEditAdditions"]
+	path = Minetest-WorldEditAdditions
+	url = https://github.com/sbrl/Minetest-WorldEditAdditions
+[submodule "minetest_playertools"]
+	path = minetest_playertools
+	url = https://repo.or.cz/minetest_playertools.git
+[submodule "flyspeed"]
+	path = flyspeed
+	url = https://github.com/rollerozxa/flyspeed
+[submodule "3d_armor_flyswim"]
+	path = 3d_armor_flyswim
+	url = https://github.com/sirrobzeroone/3d_armor_flyswim
+[submodule "mt_biblebot"]
+	path = mt_biblebot
+	url = https://github.com/maikerumine/mt_biblebot
+[submodule "visual-bots"]
+	path = visual-bots
+	url = https://github.com/blockalot/visual-bots
+[submodule "fmod"]
+	path = fmod
+	url = https://github.com/fluxionary/minetest-fmod
+[submodule "futil"]
+	path = futil
+	url = https://github.com/fluxionary/minetest-futil
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/minetest-mods/wiki
+[submodule "mesecons_audio"]
+	path = mesecons_audio
+	url = git@github.com:blockalot/mesecons_audio.git

@@ -1,12 +1,6 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons
-[submodule "advtrains"]
-	path = advtrains
-	url = https://git.bananach.space/advtrains.git
-[submodule "basic_trains"]
-	path = basic_trains
-	url = http://git.bananach.space/basic_trains.git/
 [submodule "anvil"]
 	path = anvil
 	url = https://github.com/minetest-mods/anvil
@@ -31,15 +25,6 @@
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://github.com/mt-mods/basic_signs
-[submodule "minetest-better_nametags"]
-	path = better-nametags
-	url = https://notabug.org/Piezo_/minetest-better_nametags
-[submodule "bike"]
-	path = bike
-	url = https://gitlab.com/h2mm/bike/
-[submodule "bonemeal"]
-	path = bonemeal
-	url = https://notabug.org/tenplus1/bonemeal
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart
@@ -285,9 +270,6 @@
 [submodule "basic_machines"]
 	path = basic_machines
 	url = git@github.com:ac-minetest/basic_machines.git
-[submodule "petz"]
-	path = petz
-	url = git@github.com:blockalot/petz.git
 [submodule "mtobjid"]
 	path = mtobjid
 	url = https://codeberg.org/zeuner/mtobjid.git
@@ -339,3 +321,27 @@
 [submodule "mesecons_audio"]
 	path = mesecons_audio
 	url = git@github.com:blockalot/mesecons_audio.git
+[submodule "lwscratch"]
+	path = lwscratch
+	url = https://github.com/loosewheel/lwscratch
+[submodule "petz"]
+	path = petz
+	url = git@github.com:blockalot/petz.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
+[submodule "basic_trains"]
+	path = basic_trains
+	url = http://git.bananach.space/basic_trains.git/
+[submodule "minetest-better_nametags"]
+	path = minetest-better_nametags
+	url = https://notabug.org/Piezo_/minetest-better_nametags
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike/
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://codeberg.org/tenplus1/bonemeal
+[submodule "better_nametags"]
+	path = better_nametags
+	url = https://notabug.org/Piezo_/minetest-better_nametags

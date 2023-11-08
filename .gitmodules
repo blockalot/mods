@@ -339,9 +339,9 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/
-[submodule "bonemeal"]
-	path = bonemeal
-	url = https://codeberg.org/tenplus1/bonemeal
 [submodule "better_nametags"]
 	path = better_nametags
 	url = https://notabug.org/Piezo_/minetest-better_nametags
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://codeberg.org/tenplus1/bonemeal

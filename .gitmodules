@@ -192,9 +192,6 @@
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/mt-mods/travelnet
-[submodule "mobs_animal"]
-	path = mobs_animal
-	url = https://notabug.org/tenplus1/mobs_animal
 [submodule "illumination"]
 	path = illumination
 	url = https://github.com/mt-mods/illumination
@@ -342,3 +339,6 @@
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://codeberg.org/tenplus1/mob_horse
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://codeberg.org/tenplus1/mobs_animal

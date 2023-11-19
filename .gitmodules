@@ -34,9 +34,6 @@
 [submodule "abriglass"]
 	path = abriglass
 	url = https://github.com/mt-mods/abriglass
-[submodule "cblocks"]
-	path = cblocks
-	url = https://notabug.org/tenplus1/cblocks
 [submodule "christmas"]
 	path = christmas
 	url = https://github.com/Extex101/christmas
@@ -354,3 +351,6 @@
 [submodule "smartshop"]
 	path = smartshop
 	url = https://github.com/fluxionary/minetest-smartshop
+[submodule "cblocks"]
+	path = cblocks
+	url = https://codeberg.org/tenplus1/cblocks

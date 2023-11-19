@@ -10,9 +10,6 @@
 [submodule "markers"]
 	path = markers
 	url = https://github.com/Sokomine/markers
-[submodule "protector"]
-	path = protector
-	url = https://notabug.org/tenplus1/protector
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://github.com/mt-mods/basic_materials
@@ -189,9 +186,6 @@
 [submodule "minetest-hangglider"]
 	path = minetest-hangglider
 	url = https://notabug.org/Piezo_/minetest-hangglider
-[submodule "wine"]
-	path = wine
-	url = https://notabug.org/TenPlus1/wine
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
@@ -354,3 +348,9 @@
 [submodule "cblocks"]
 	path = cblocks
 	url = https://codeberg.org/tenplus1/cblocks
+[submodule "wine"]
+	path = wine
+	url = https://codeberg.org/tenplus1/wine
+[submodule "protector"]
+	path = protector
+	url = https://codeberg.org/tenplus1/protector

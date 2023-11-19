@@ -85,9 +85,6 @@
 [submodule "simple_dialogs"]
 	path = simple_dialogs
 	url = https://github.com/Kilarin/simple_dialogs
-[submodule "mobs_npc"]
-	path = mobs_npc
-	url = https://notabug.org/TenPlus1/mobs_npc
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor
@@ -342,3 +339,6 @@
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://codeberg.org/tenplus1/mobs_animal
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://codeberg.org/tenplus1/mobs_npc

@@ -180,9 +180,6 @@
 [submodule "cool_trees"]
 	path = cool_trees
 	url = https://github.com/runsy/cool_trees/
-[submodule "farming"]
-	path = farming
-	url = https://notabug.org/tenplus1/farming
 [submodule "lua-matrix"]
 	path = lua-matrix
 	url = https://github.com/entuland/lua-matrix
@@ -333,15 +330,15 @@
 [submodule "basic_trains"]
 	path = basic_trains
 	url = http://git.bananach.space/basic_trains.git/
-[submodule "minetest-better_nametags"]
-	path = minetest-better_nametags
-	url = https://notabug.org/Piezo_/minetest-better_nametags
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/
-[submodule "better_nametags"]
-	path = better_nametags
-	url = https://notabug.org/Piezo_/minetest-better_nametags
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://codeberg.org/tenplus1/bonemeal
+[submodule "farming"]
+	path = farming
+	url = https://codeberg.org/tenplus1/farming
+[submodule "better_nametags"]
+	path = better_nametags
+	url = https://notabug.org/Piezo_/minetest-better_nametags

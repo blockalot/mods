@@ -79,9 +79,6 @@
 [submodule "xban2"]
 	path = xban2
 	url = https://github.com/minetest-mods/xban2
-[submodule "mobs_redo"]
-	path = mobs_redo
-	url = https://notabug.org/tenplus1/mobs_redo
 [submodule "simple_dialogs"]
 	path = simple_dialogs
 	url = https://github.com/Kilarin/simple_dialogs
@@ -342,3 +339,6 @@
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://codeberg.org/tenplus1/mobs_npc
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo

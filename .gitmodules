@@ -279,9 +279,6 @@
 [submodule "Minetest-WorldEditAdditions"]
 	path = Minetest-WorldEditAdditions
 	url = https://github.com/sbrl/Minetest-WorldEditAdditions
-[submodule "minetest_playertools"]
-	path = minetest_playertools
-	url = https://repo.or.cz/minetest_playertools.git
 [submodule "flyspeed"]
 	path = flyspeed
 	url = https://github.com/rollerozxa/flyspeed
@@ -291,18 +288,12 @@
 [submodule "mt_biblebot"]
 	path = mt_biblebot
 	url = https://github.com/maikerumine/mt_biblebot
-[submodule "visual-bots"]
-	path = visual-bots
-	url = https://github.com/blockalot/visual-bots
 [submodule "fmod"]
 	path = fmod
 	url = https://github.com/fluxionary/minetest-fmod
 [submodule "futil"]
 	path = futil
 	url = https://github.com/fluxionary/minetest-futil
-[submodule "wiki"]
-	path = wiki
-	url = https://github.com/minetest-mods/wiki
 [submodule "mesecons_audio"]
 	path = mesecons_audio
 	url = git@github.com:blockalot/mesecons_audio.git
@@ -342,3 +333,24 @@
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/tenplus1/mobs_redo
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/minetest-mods/wiki
+[submodule "pontoons"]
+	path = pontoons
+	url = https://github.com/minetest-mods/pontoons
+[submodule "vbots"]
+	path = vbots
+	url = https://github.com/blockalot/vbots
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://codeberg.org/tenplus1/bakedclay
+[submodule "playertools"]
+	path = playertools
+	url = git://repo.or.cz/minetest_playertools.git
+[submodule "minetest-smartshop"]
+	path = minetest-smartshop
+	url = https://github.com/fluxionary/minetest-smartshop
+[submodule "smartshop"]
+	path = smartshop
+	url = https://github.com/fluxionary/minetest-smartshop

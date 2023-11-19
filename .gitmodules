@@ -276,9 +276,6 @@
 [submodule "fmod"]
 	path = fmod
 	url = https://github.com/fluxionary/minetest-fmod
-[submodule "futil"]
-	path = futil
-	url = https://github.com/fluxionary/minetest-futil
 [submodule "mesecons_audio"]
 	path = mesecons_audio
 	url = git@github.com:blockalot/mesecons_audio.git
@@ -354,3 +351,6 @@
 [submodule "basic_trains"]
 	path = basic_trains
 	url = http://git.bananach.space/basic_trains.git/
+[submodule "futil"]
+	path = futil
+	url = https://github.com/fluxionary/minetest-futil

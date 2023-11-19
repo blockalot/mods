@@ -207,9 +207,6 @@
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
-[submodule "mob_horse"]
-	path = mob_horse
-	url = https://notabug.org/TenPlus1/mob_horse
 [submodule "church"]
 	path = church
 	url = https://github.com/sfence/church
@@ -342,3 +339,6 @@
 [submodule "better_nametags"]
 	path = better_nametags
 	url = https://notabug.org/Piezo_/minetest-better_nametags
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://codeberg.org/tenplus1/mob_horse

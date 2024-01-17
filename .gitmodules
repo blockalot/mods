@@ -354,3 +354,6 @@
 [submodule "futil"]
 	path = futil
 	url = https://github.com/fluxionary/minetest-futil
+[submodule "edit_skin"]
+	path = edit_skin
+	url = https://github.com/blockalot/edit_skin

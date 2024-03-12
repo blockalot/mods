@@ -357,3 +357,75 @@
 [submodule "edit_skin"]
 	path = edit_skin
 	url = https://github.com/blockalot/edit_skin
+[submodule "minetest-cloaking"]
+	path = minetest-cloaking
+	url = https://gitlab.com/luk3yx/minetest-cloaking
+[submodule "craftguide"]
+	path = craftguide
+	url = https://github.com/minetest-mods/craftguide
+[submodule "fireflies"]
+	path = fireflies
+	url = https://github.com/Ezhh/fireflies
+[submodule "font_oldwizard"]
+	path = font_oldwizard
+	url = https://github.com/pyrollo/font_oldwizard
+[submodule "font_botic"]
+	path = font_botic
+	url = https://github.com/pyrollo/font_botic
+[submodule "hidden_doors"]
+	path = hidden_doors
+	url = https://codeberg.org/Hamlet/hidden_doors
+[submodule "Minetest-Hyperloop"]
+	path = Minetest-Hyperloop
+	url = https://github.com/joe7575/Minetest-Hyperloop
+[submodule "minetest_mtg_plus"]
+	path = minetest_mtg_plus
+	url = https://codeberg.org/Wuzzy/minetest_mtg_plus
+[submodule "nether"]
+	path = nether
+	url = https://github.com/minetest-mods/nether
+[submodule "minetest-nether-monsters"]
+	path = minetest-nether-monsters
+	url = https://github.com/GreenDirkfried/minetest-nether-monsters
+[submodule "nuke"]
+	path = nuke
+	url = https://github.com/HybridDog/nuke
+[submodule "pkarcs"]
+	path = pkarcs
+	url = https://github.com/TumeniNodes/pkarcs
+[submodule "rename"]
+	path = rename
+	url = https://github.com/Niwla23/rename
+[submodule "screwdriver2"]
+	path = screwdriver2
+	url = https://github.com/12Me21/screwdriver2
+[submodule "sfinv"]
+	path = sfinv
+	url = https://github.com/rubenwardy/sfinv
+[submodule "shortnames"]
+	path = shortnames
+	url = https://github.com/Niwla23/shortnames
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://github.com/minetest-mods/stained_glass
+[submodule "stairs"]
+	path = stairs
+	url = https://codeberg.org/tenplus1/stairs
+[submodule "street_signs"]
+	path = street_signs
+	url = https://github.com/mt-mods/street_signs
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2
+[submodule "water_life"]
+	path = water_life
+	url = https://github.com/berengma/water_life
+[submodule "wildlife"]
+	path = wildlife
+	url = https://github.com/TheTermos/wildlife
+[submodule "worldedit_hud_helper"]
+	path = worldedit_hud_helper
+	url = https://gitlab.com/sbrl/worldedit_hud_helper
+[submodule "xconnected"]
+	path = xconnected
+	url = https://github.com/Sokomine/xconnected

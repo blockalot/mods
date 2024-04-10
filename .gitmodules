@@ -429,3 +429,15 @@
 [submodule "xconnected"]
 	path = xconnected
 	url = https://github.com/Sokomine/xconnected
+[submodule "digibuilder"]
+	path = digibuilder
+	url = https://github.com/BuckarooBanzay/digibuilder
+[submodule "minetest-country_flags"]
+	path = minetest-country_flags
+	url = https://github.com/snowyu/minetest-country_flags
+[submodule "pride_flags"]
+	path = pride_flags
+	url = https://codeberg.org/Wuzzy/pride_flags
+[submodule "teleport_potion"]
+	path = teleport_potion
+	url = https://codeberg.org/tenplus1/teleport_potion

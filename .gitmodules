@@ -147,9 +147,6 @@
 [submodule "facade"]
 	path = facade
 	url = https://github.com/TumeniNodes/facade
-[submodule "swaz"]
-	path = swaz
-	url = https://github.com/runsy/swaz
 [submodule "maptools"]
 	path = maptools
 	url = https://github.com/minetest-mods/maptools

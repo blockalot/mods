@@ -435,3 +435,6 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike.git/
+[submodule "stainedglass"]
+	path = stainedglass
+	url = https://gitlab.com/alerikaisattera/stainedglass

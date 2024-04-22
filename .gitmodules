@@ -147,9 +147,6 @@
 [submodule "facade"]
 	path = facade
 	url = https://github.com/TumeniNodes/facade
-[submodule "digistuff"]
-	path = digistuff
-	url = https://cheapiesystems.com/git/digistuff
 [submodule "swaz"]
 	path = swaz
 	url = https://github.com/runsy/swaz
@@ -288,9 +285,6 @@
 [submodule "advtrains"]
 	path = advtrains
 	url = https://git.bananach.space/advtrains.git
-[submodule "bike"]
-	path = bike
-	url = https://gitlab.com/h2mm/bike/
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://codeberg.org/tenplus1/bonemeal
@@ -306,9 +300,6 @@
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://codeberg.org/tenplus1/mobs_animal
-[submodule "mobs_npc"]
-	path = mobs_npc
-	url = https://codeberg.org/tenplus1/mobs_npc
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/tenplus1/mobs_redo
@@ -441,3 +432,12 @@
 [submodule "teleport_potion"]
 	path = teleport_potion
 	url = https://codeberg.org/tenplus1/teleport_potion
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://github.com/blockalot/mobs_npc
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff
+[submodule "bike"]
+	path = bike
+	url = https://gitlab.com/h2mm/bike.git/

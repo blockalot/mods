@@ -434,7 +434,7 @@
 	url = https://codeberg.org/tenplus1/teleport_potion
 [submodule "mobs_npc"]
 	path = mobs_npc
-	url = https://github.com/blockalot/mobs_npc
+	url = git@github.com:blockalot/mobs_npc.git
 [submodule "digistuff"]
 	path = digistuff
 	url = https://cheapiesystems.com/git/digistuff

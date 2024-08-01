@@ -56,7 +56,7 @@
 	path = x_farming
 	url = https://bitbucket.org/minetest_gamers/x_farming
 [submodule "Minetest-WorldEdit"]
-	path = Minetest-WorldEdit
+	path = worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit
 [submodule "we_undo"]
 	path = we_undo

@@ -297,9 +297,6 @@
 [submodule "farming"]
 	path = farming
 	url = https://codeberg.org/tenplus1/farming
-[submodule "better_nametags"]
-	path = better_nametags
-	url = https://notabug.org/Piezo_/minetest-better_nametags
 [submodule "mob_horse"]
 	path = mob_horse
 	url = https://codeberg.org/tenplus1/mob_horse
@@ -441,3 +438,6 @@
 [submodule "teleport_potion"]
 	path = teleport_potion
 	url = https://codeberg.org/tenplus1/teleport_potion
+[submodule "minetest-better_nametags"]
+	path = better_nametags
+	url = https://notabug.org/Piezo_/minetest-better_nametags

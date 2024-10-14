@@ -396,9 +396,6 @@
 [submodule "shortnames"]
 	path = shortnames
 	url = https://github.com/Niwla23/shortnames
-[submodule "stained_glass"]
-	path = stained_glass
-	url = https://github.com/minetest-mods/stained_glass
 [submodule "stairs"]
 	path = stairs
 	url = https://codeberg.org/tenplus1/stairs
@@ -435,3 +432,12 @@
 [submodule "minetest-better_nametags"]
 	path = better_nametags
 	url = https://notabug.org/Piezo_/minetest-better_nametags
+[submodule "technic"]
+	path = technic
+	url = https://github.com/mt-mods/technic
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
+[submodule "stainedglass"]
+	path = stainedglass
+	url = https://gitlab.com/alerikaisattera/stainedglass

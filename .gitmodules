@@ -153,9 +153,6 @@
 [submodule "maptools"]
 	path = maptools
 	url = https://github.com/minetest-mods/maptools
-[submodule "multitools"]
-	path = multitools
-	url = https://github.com/ChimneySwift/multitools
 [submodule "lua-matrix"]
 	path = lua-matrix
 	url = https://github.com/entuland/lua-matrix
@@ -441,3 +438,6 @@
 [submodule "stainedglass"]
 	path = stainedglass
 	url = https://gitlab.com/alerikaisattera/stainedglass
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/ChimneySwift/multitools

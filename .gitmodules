@@ -276,9 +276,6 @@
 [submodule "petz"]
 	path = petz
 	url = git@github.com:blockalot/petz.git
-[submodule "advtrains"]
-	path = advtrains
-	url = https://git.bananach.space/advtrains.git
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/

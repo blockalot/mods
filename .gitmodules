@@ -227,9 +227,6 @@
 [submodule "mtobjid"]
 	path = mtobjid
 	url = https://codeberg.org/zeuner/mtobjid.git
-[submodule "mobconf"]
-	path = mobconf
-	url = https://codeberg.org/zeuner/mobconf
 [submodule "lmz_opening_hours"]
 	path = lmz_opening_hours
 	url = git@github.com:blockalot/lmz_opening_hours.git
@@ -437,3 +434,6 @@
 [submodule "edutest"]
 	path = edutest
 	url = git@github.com:blockalot/edutest.git
+[submodule "mobconf"]
+	path = mobconf
+	url = https://codeberg.org/chbinder/mobconf

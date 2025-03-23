@@ -437,3 +437,15 @@
 [submodule "mobconf"]
 	path = mobconf
 	url = https://codeberg.org/chbinder/mobconf
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar
+[submodule "ethereal"]
+	path = ethereal
+	url = https://codeberg.org/tenplus1/ethereal
+[submodule "pickblock"]
+	path = pickblock
+	url = https://github.com/rollerozxa/pickblock

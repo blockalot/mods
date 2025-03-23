@@ -79,9 +79,6 @@
 [submodule "3d_armor"]
 	path = 3d_armor
 	url = https://github.com/minetest-mods/3d_armor
-[submodule "minetest_mails"]
-	path = minetest_mails
-	url = https://gitlab.com/zughy-friends-minetest/minetest_mails
 [submodule "unifieddyes"]
 	path = unifieddyes
 	url = https://github.com/mt-mods/unifieddyes.git
@@ -103,10 +100,6 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus
-[submodule "edutest"]
-	path = edutest
-	url = https://github.com/zeuner/edutest
-	branch = edutest-2022
 [submodule "edutest-chatcommands"]
 	path = edutest-chatcommands
 	url = https://github.com/zeuner/edutest-chatcommands
@@ -234,9 +227,6 @@
 [submodule "mtobjid"]
 	path = mtobjid
 	url = https://codeberg.org/zeuner/mtobjid.git
-[submodule "mobconf"]
-	path = mobconf
-	url = https://codeberg.org/zeuner/mobconf
 [submodule "lmz_opening_hours"]
 	path = lmz_opening_hours
 	url = git@github.com:blockalot/lmz_opening_hours.git
@@ -276,6 +266,9 @@
 [submodule "petz"]
 	path = petz
 	url = git@github.com:blockalot/petz.git
+[submodule "advtrains"]
+	path = advtrains
+	url = https://git.bananach.space/advtrains.git
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/h2mm/bike/
@@ -291,9 +284,6 @@
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://codeberg.org/tenplus1/mobs_animal
-[submodule "mobs_npc"]
-	path = mobs_npc
-	url = https://codeberg.org/tenplus1/mobs_npc
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/tenplus1/mobs_redo
@@ -438,3 +428,27 @@
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/ChimneySwift/multitools
+[submodule "edutest"]
+	path = edutest
+	url = git@github.com:blockalot/edutest.git
+[submodule "mobconf"]
+	path = mobconf
+	url = https://codeberg.org/chbinder/mobconf
+[submodule "digiscreen"]
+	path = digiscreen
+	url = https://cheapiesystems.com/git/digiscreen/
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar
+[submodule "ethereal"]
+	path = ethereal
+	url = https://codeberg.org/tenplus1/ethereal
+[submodule "pickblock"]
+	path = pickblock
+	url = https://github.com/rollerozxa/pickblock
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://github.com/blockalot/mobs_npc
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib

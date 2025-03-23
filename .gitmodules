@@ -446,3 +446,6 @@
 [submodule "pickblock"]
 	path = pickblock
 	url = https://github.com/rollerozxa/pickblock
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://github.com/blockalot/mobs_npc

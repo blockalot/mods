@@ -449,3 +449,6 @@
 [submodule "mobs_npc"]
 	path = mobs_npc
 	url = https://github.com/blockalot/mobs_npc
+[submodule "fakelib"]
+	path = fakelib
+	url = https://github.com/OgelGames/fakelib

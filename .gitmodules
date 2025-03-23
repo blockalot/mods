@@ -284,9 +284,6 @@
 [submodule "mobs_animal"]
 	path = mobs_animal
 	url = https://codeberg.org/tenplus1/mobs_animal
-[submodule "mobs_npc"]
-	path = mobs_npc
-	url = https://codeberg.org/tenplus1/mobs_npc
 [submodule "mobs_redo"]
 	path = mobs_redo
 	url = https://codeberg.org/tenplus1/mobs_redo

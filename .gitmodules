@@ -452,3 +452,6 @@
 [submodule "fakelib"]
 	path = fakelib
 	url = https://github.com/OgelGames/fakelib
+[submodule "cottages"]
+	path = cottages
+	url = https://github.com/Sokomine/cottages

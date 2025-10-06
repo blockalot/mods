@@ -100,10 +100,6 @@
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus
-[submodule "edutest-chatcommands"]
-	path = edutest-chatcommands
-	url = https://github.com/zeuner/edutest-chatcommands
-	branch = edutest-2022
 [submodule "freeze"]
 	path = freeze
 	url = https://github.com/IhrFussel/freeze

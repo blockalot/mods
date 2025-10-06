@@ -451,3 +451,6 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/Sokomine/cottages
+[submodule "edutest-chatcommands"]
+	path = edutest-chatcommands
+	url = https://github.com/blockalot/edutest-chatcommands

@@ -223,9 +223,6 @@
 [submodule "mtobjid"]
 	path = mtobjid
 	url = https://codeberg.org/zeuner/mtobjid.git
-[submodule "lmz_opening_hours"]
-	path = lmz_opening_hours
-	url = git@github.com:blockalot/lmz_opening_hours.git
 [submodule "hud_notify"]
 	path = hud_notify
 	url = https://github.com/MT-CTF/hud_notify
@@ -454,3 +451,6 @@
 [submodule "edutest-chatcommands"]
 	path = edutest-chatcommands
 	url = https://github.com/blockalot/edutest-chatcommands
+[submodule "lmz_opening_hours"]
+	path = lmz_opening_hours
+	url = https://github.com/blockalot/lmz_opening_hours

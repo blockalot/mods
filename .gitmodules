@@ -157,9 +157,6 @@
 [submodule "illumination"]
 	path = illumination
 	url = https://github.com/mt-mods/illumination
-[submodule "minetest-hangglider"]
-	path = minetest-hangglider
-	url = https://notabug.org/Piezo_/minetest-hangglider
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
@@ -454,3 +451,6 @@
 [submodule "edutest-chatcommands"]
 	path = edutest-chatcommands
 	url = https://github.com/blockalot/edutest-chatcommands
+[submodule "hangglider"]
+	path = hangglider
+	url = https://github.com/mt-mods/hangglider

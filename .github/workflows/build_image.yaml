@@ -16,6 +16,7 @@ jobs:
         with:
           submodules: 'recursive'
           fetch-depth: 0
+        continue-on-error: true
 
       # 2. Download and unzip the Luanti package into the workspace
       - name: Download and unzip Luanti package

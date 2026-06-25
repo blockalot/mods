@@ -1,0 +1,48 @@
+name: Build and Push to Private Registry
+
+on:
+  push:
+    branches: [ "main" ] # Change this to your default branch if it is master
+  workflow_dispatch:     # Allows you to trigger the build manually
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout the main repo and all associated submodules
+      - name: Checkout repository with submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'
+          fetch-depth: 0
+
+      # 2. Download and unzip the Luanti package into the workspace
+      - name: Download and unzip Luanti package
+        run: |
+          curl --location "https://content.luanti.org/packages/Luanti/minetest_game/releases/37255/download/" -o minetest_game.zip
+          unzip minetest_game.zip -d ./minetest_game_extracted
+          rm minetest_game.zip
+
+      # 3. Log into your private Docker registry
+      - name: Log in to Private Registry
+        uses: docker/login-action@v3
+        with:
+          registry: template-postgres.cr.de-fra.ionos.com
+          username: tim-test
+          password: ${{ secrets.REGISTRY_PASSWORD }}
+
+      # 4. Set up Docker Buildx (highly recommended for modern builds)
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      # 5. Build the Dockerfile and push it to the private registry
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: ./Dockerfile
+          push: true
+          tags: |
+            template-postgres.cr.de-fra.ionos.com/luanti-with-mods:latest
+            template-postgres.cr.de-fra.ionos.com/luanti-with-mods:${{ github.sha }}

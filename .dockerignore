@@ -1,0 +1,7 @@
+.git
+.github
+Dockerfile
+.dockerignore
+minetest_game.zip
+*.sh
+README.md
